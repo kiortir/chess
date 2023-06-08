@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-vk-api = "^11.9.9"
 fastapi = "^0.95.2"
 uvicorn = "^0.22.0"
 
